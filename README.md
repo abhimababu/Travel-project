@@ -1,1 +1,1 @@
-# Travellog-project
+Travel Project is a web based Project developed using Python Django and MySQL.It generates reports related to travel agency, hotel booking, charges etc. Modules contain the function which include adding, viewing, deleting and updating list. 
